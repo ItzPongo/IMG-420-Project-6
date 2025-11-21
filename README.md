@@ -179,7 +179,7 @@ All AI states were tested systematically by:
 ### AI State Screenshots
 
 #### 1. Patrolling State
-![Patrolling](screenshots/patrol.png)
+![Patrolling](screenshots/patrol.PNG)
 
 **Test Conditions:**
 - Player far away (outside detection range)
@@ -193,7 +193,7 @@ All AI states were tested systematically by:
 ---
 
 #### 2. Chasing State
-![Chasing](screenshots/chase.png)
+![Chasing](screenshots/chase.PNG)
 
 **Test Conditions:**
 - Player within detection range (200 units)
@@ -208,7 +208,7 @@ All AI states were tested systematically by:
 ---
 
 #### 3. Attacking State
-![Attacking](screenshots/chase.png)
+![Attacking](screenshots/chase.PNG)
 
 **Test Conditions:**
 - Player within attack range (50 units)
@@ -224,7 +224,7 @@ All AI states were tested systematically by:
 ---
 
 #### 4. Fleeing State
-![Fleeing](screenshots/flee.png)
+![Fleeing](screenshots/flee.PNG)
 
 *If you have this screenshot, otherwise note you tested it*
 
@@ -240,7 +240,7 @@ All AI states were tested systematically by:
 ---
 
 #### 5. Summoning State
-![Summoning](screenshots/summon.png)
+![Summoning](screenshots/summon.PNG)
 
 *If you have this screenshot, otherwise note you tested it*
 
