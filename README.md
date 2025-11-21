@@ -226,8 +226,6 @@ All AI states were tested systematically by:
 #### 4. Fleeing State
 ![Fleeing](screenshots/flee.PNG)
 
-*If you have this screenshot, otherwise note you tested it*
-
 **Test Conditions:**
 - Enemy health reduced to <20%
 - Player nearby
@@ -241,8 +239,6 @@ All AI states were tested systematically by:
 
 #### 5. Summoning State
 ![Summoning](screenshots/summon.PNG)
-
-*If you have this screenshot, otherwise note you tested it*
 
 **Test Conditions:**
 - Enemy health reduced to <50%
