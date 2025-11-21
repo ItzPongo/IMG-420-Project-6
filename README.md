@@ -272,8 +272,6 @@ All AI states were tested systematically by:
 
 ## Enhancements
 
-**(2 Required - 4 Implemented)**
-
 ### Enhancement 1: Visual Indicators - Debug Range Circles
 
 **Category:** Visual Indicators  
@@ -473,3 +471,4 @@ Allies as support units, not primary threats. Individually weak but dangerous in
 **Impact:** Time-consuming for large enemy counts  
 **Workaround:** Default patrol points auto-generated if none set  
 **Future Fix:** Visual patrol point editor with in-scene gizmos
+
